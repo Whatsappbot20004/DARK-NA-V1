@@ -1,7 +1,7 @@
 
 
 {
-   "name": "DARK-NA-Md",
+   "name": "Basco BOT",
    "version": "0.0.1",
    "description": "Multi device whatsapp bot.",
    "main": "index.js",
@@ -18,8 +18,8 @@
 "keywords": [
 "whatsapp"
 ],
-"author": "Nilambara",
-"developer": "Nilambara",
+"author": "Basco",
+"developer": "Basco",
 "license": "GPL-3.0-or-later",
 "homepage": "https://github.com/",
 "dependencies": {
